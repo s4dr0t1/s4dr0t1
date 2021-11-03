@@ -23,7 +23,7 @@ Network Security, Operating Systems and anything low-level are my area of intere
 
 When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://rohitdhill.me](https://rohitdhill.me/docs)!
 
-## Languages
+## My Toolbox
 
 <p align="left">
 

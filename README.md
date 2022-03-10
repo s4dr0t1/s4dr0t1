@@ -1,4 +1,4 @@
-# Hey there :wave:, I'm [Rohit](https://rohitdhill.me)
+# Hey there :wave:, I'm [Rohit](https://s4dr0t1.github.io/)
 
 <h6>An aspiring Cyber Security professional from India</h6>
 
@@ -10,7 +10,7 @@
 <!-- Keybase PGP -->
 <a href="https://keybase.io/s4dr0t1"><img align="center" src="https://img.shields.io/keybase/pgp/s4dr0t1?logo=keybase&logoColor=white&label=pgp" alt="pgp key"></a>
 <!-- website -->
-<a href="https://rohitdhill.me"><img align="center" src="https://img.shields.io/badge/rohitdhill.me-0077B5?style=for-the-badge&logo=About.me&logoColor=white&style=social&label=website" alt="pgp key"></a>
+<a href="https://s4dr0t1.github.io/"><img align="center" src="https://img.shields.io/badge/rohitdhill.me-0077B5?style=for-the-badge&logo=About.me&logoColor=white&style=social&label=website" alt="pgp key"></a>
 
 </p>
 
@@ -21,7 +21,7 @@ I'm currently a sophomore at MNIT pursuing B.Tech in the Computer Science discip
 
 Network Security, Operating Systems and anything low-level are my area of interests.
 
-When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://rohitdhill.me](https://rohitdhill.me/docs)!
+When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://s4dr0t1.github.io/](https://s4dr0t1.github.io//docs)!
 
 ## My Toolbox
 

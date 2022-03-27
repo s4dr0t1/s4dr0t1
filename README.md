@@ -21,7 +21,7 @@ I'm currently a sophomore at MNIT pursuing B.Tech in the Computer Science discip
 
 Network Security, Operating Systems and anything low-level are my area of interests.
 
-When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://s4dr0t1.github.io/](https://s4dr0t1.github.io//docs)!
+When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://s4dr0t1.github.io/](https://s4dr0t1.github.io/docs)!
 
 ## My Toolbox
 

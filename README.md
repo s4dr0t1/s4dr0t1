@@ -16,16 +16,21 @@
 
 </p>
 
+### About me
+> A computer science undergraduate with a penchant for offensive security
 
-## About me
+I am pursuing my bachelors in Computer Science from [MNIT Jaipur](https://wiki.metastem.su/#/wiki/Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur/en).
 
-I am currently a pre-final year student pursuing B.Tech at [MNIT, Jaipur](https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur).
+I always have been interested in cybersecurity from a very young age. I tinker with all sorts of things, from systems, computer networks, wireless communication, operating systems to hypervisors and their security. I care about online privacy and digital security. 
 
-I am intrigued by anything and everything related to low-level computing. I dabble in Cryptography, Operating Systems, Computer Architecture, Binary Analysis, Computer Networks and everything else that surround them. I also sometimes like to read up about distributed systems and programming language theory. I aim to be a vulnerability researcher one day.
+Other than the aforementioned things, I also enjoy reading up about programming language theory, site reliability engineering, and distributed systems. Currently investing my time in binary analysis, reverse engineering and the Nix package management ecosystem.
 
-Currently I'm investing my time in learning about Cryptography and Binary Analysis. I generally code in the imperative/ object-oriented programming paradigm, but have also dabbled in functional programming ([Nix Expression Language](https://nixos.wiki/wiki/Overview_of_the_Nix_Language)).
+I mostly code in C and Rust, and use Bash for automation. When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://s4dr0t1.github.io/](https://s4dr0t1.github.io)!
 
-When I'm feeling bored, I blog about things, mainly related to the information security space, you can check my blog at: [https://s4dr0t1.github.io/](https://s4dr0t1.github.io/docs)!
+
+If you want to get in touch with me, please check [this](https://s4dr0t1.github.io/contact).
+
+
 
 ## My Toolbox
 

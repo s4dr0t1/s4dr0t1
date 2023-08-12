@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/rohitdhill/" target="blank"><img align="center" src="https://img.shields.io/badge/rohitdhill-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social&label=LinkedIn" alt="linkedin"></a>
 <!-- Mastodon -->
 <a href="https://ioc.exchange/@s4dr0t1" target="blank"><img align="center" src="https://img.shields.io/badge/@s4dr0t1@ioc.exchange-0077B5?style=for-the-badge&logo=mastodon&logoColor=white&style=social&label=Mastodon" alt="Mastodon"></a>
-<!-- Twitter -->
-<a href="https://twitter.com/s4dr0t1" target="blank"><img align="center" src="https://img.shields.io/badge/s4dr0t1-0077B5?style=for-the-badge&logo=twitter&logoColor=white&style=social&label=Twitter" alt="twitter"></a>
+
 <!-- website -->
 <a href="https://s4dr0t1.github.io/"><img align="center" src="https://img.shields.io/badge/s4dr0t1.github.io-0077B5?style=for-the-badge&logo=About.me&logoColor=white&style=social&label=website" alt="website"></a>
 
